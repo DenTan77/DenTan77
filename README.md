@@ -1,10 +1,11 @@
-<h1>3..2..1.. Start</h1>
+<h1>3..2..1.. Start!!!</h1>
 <div>
   <div>
-    <img align = "right" width = 200 src = "https://th.bing.com/th/id/OIP.9kU10NudPNqGMD7VJQvrWQHaFv?pid=ImgDet&rs=1"  />
+    <img align = "right" width = 225 src = "https://th.bing.com/th/id/OIP.9kU10NudPNqGMD7VJQvrWQHaFv?pid=ImgDet&rs=1"  />
   <p>Hello There!!!</p>
   <p>I'm Dennytan, lets find out about me ^_^</p>
   </div>
+  
   <ul>
     <li>I'm from Physics Engineering 📖</li>
     <li>The beginner who wants to be an expert 😁</li>
