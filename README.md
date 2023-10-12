@@ -1,7 +1,7 @@
 <h1>3..2..1.. Start</h1>
 <div>
   <div>
-    <img align = "right" width = 500 src = "https://th.bing.com/th/id/OIP.9kU10NudPNqGMD7VJQvrWQHaFv?pid=ImgDet&rs=1"  />
+    <img align = "right" width = 200 src = "https://th.bing.com/th/id/OIP.9kU10NudPNqGMD7VJQvrWQHaFv?pid=ImgDet&rs=1"  />
   <p>Hello There!!!</p>
   <p>I'm Dennytan, lets find out about me ^_^</p>
   </div>
