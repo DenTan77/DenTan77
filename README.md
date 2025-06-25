@@ -13,7 +13,7 @@
 </div>
 
 <h2>My Skills</h2>
-<img src="https://skillicons.dev/icons?i=c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c" />
 
 <h2>Connect With Me</h2>
 <p align="left">
