@@ -3,12 +3,11 @@
   <div>
     <img align = "right" width = 225 src = "https://th.bing.com/th/id/OIP.9kU10NudPNqGMD7VJQvrWQHaFv?pid=ImgDet&rs=1"  />
   <p>Hello There!!!</p>
-  <p>I'm Dennytan, lets find out about me ^_^</p>
+  <p>^_^</p>
   </div>
   
   <ul>
     <li>I'm from Physics Engineering 📖</li>
-    <li>The beginner who wants to be an expert 😁</li>
   </ul>
 </div>
 
