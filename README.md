@@ -1,15 +1,6 @@
-<h1>3..2..1.. Start!!!</h1>
-<div>
-  <div>
-    <img align = "right" width = 225 src = "https://th.bing.com/th/id/OIP.9kU10NudPNqGMD7VJQvrWQHaFv?pid=ImgDet&rs=1"  />
-  <p>Hello There!!!</p>
-  <p>^_^</p>
-  </div>
-  
-  <ul>
-    <li>I'm from Physics Engineering 📖</li>
-  </ul>
-</div>
+# About Me
+
+A person who interested in material designer using Quantum ESPRESSO and Yambo, Material Data Science, Machine Learning an IoT project 
 
 <h2>My Skills</h2>
 
@@ -19,7 +10,7 @@
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=javascript" />
-</p>p
+</p>
 
 
 
