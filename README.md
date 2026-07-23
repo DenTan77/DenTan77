@@ -1,34 +1,59 @@
-# About Me
+# 👋 Hi, I'm Denny Tan
 
-A person who interested in material designer using Quantum ESPRESSO and Yambo, Material Data Science, Machine Learning an IoT project 
+> *"Turning quantum mechanics into code, and code into discoveries."*
 
-🚀 Computational Physics Enthusiast
+I'm a Computational Physics enthusiast passionate about designing and understanding quantum materials through **first-principles simulations**, **scientific computing**, and **machine learning**.
 
-⚛️ Quantum Materials & First-Principles Simulations
+My work bridges **physics**, **high-performance computing**, and **artificial intelligence** to build reproducible research and accelerate materials discovery.
 
-💻 Python • Linux • HPC • CUDA
+- ⚛️ **Quantum Materials & Electronic Structure**
+- 🔬 **Density Functional Theory (Quantum ESPRESSO & Yambo)**
+- 🚀 **High-Performance Computing (Linux • CUDA • MPI • OpenMP)**
+- 🧠 **Machine Learning for Materials Science**
+- 📊 **Scientific Computing & Data Visualization**
+- 🌐 **IoT & Embedded Systems**
 
-🧠 Machine Learning for Materials Science
+---
 
-📖 Always learning, always building.
-
-<h2>My Skills</h2>
+## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,git,github,vscode,html,css,javascript" />
 </p>
 
+---
 
+## 🌌 Philosophy
 
-<h2>Connect With Me</h2>
+```text
+Atoms don't speak.
+Data doesn't explain itself.
+That's where simulation begins.
+```
+
+I enjoy building software that transforms physical models into reproducible scientific discoveries.
+
+---
+
+## 📈 Current Interests
+
+- First-Principles Simulations
+- Quantum Materials
+- Excitons & Optical Properties
+- High-Performance Computing
+- Machine Learning for Scientific Discovery
+- Scientific Visualization
+- Open Source Scientific Software
+
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/dennytan-raharjo-67468824b/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>
   <a href="https://instagram.com/dentanr?igshid=NTc4MTIwNjQ2YQ==">
     <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
 </p>
