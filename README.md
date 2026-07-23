@@ -1,11 +1,17 @@
 # About Me
 
 A person who interested in material designer using Quantum ESPRESSO and Yambo, Material Data Science, Machine Learning an IoT project 
+
 🚀 Computational Physics Enthusiast
+
 ⚛️ Quantum Materials & First-Principles Simulations
+
 💻 Python • Linux • HPC • CUDA
+
 🧠 Machine Learning for Materials Science
+
 📖 Always learning, always building.
+
 <h2>My Skills</h2>
 
 <p align="left">
