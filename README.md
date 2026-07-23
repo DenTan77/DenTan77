@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Denny Tan
 
-> *"Turning quantum mechanics into code, and code into discoveries."*
-
 I'm a Computational Physics enthusiast passionate about designing and understanding quantum materials through **first-principles simulations**, **scientific computing**, and **machine learning**.
 
 My work bridges **physics**, **high-performance computing**, and **artificial intelligence** to build reproducible research and accelerate materials discovery.
